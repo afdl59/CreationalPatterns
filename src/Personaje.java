@@ -1,4 +1,4 @@
-//Crea personaje de tipo orco, elfo o monstruo usando factory method. Los atributos seran vida, ataque y defensa.
+// Define un personaje con los atributos vida, ataque, defensa y tipo; y metodos para poder modificarlos en la subclases. 
 
 public abstract class Personaje implements Cloneable{
     private int vida;
