@@ -18,8 +18,8 @@ public class TestCreationalPatterns {
         // Aplicamos el patron de prototipo de personajes para clonar personajes de la colección que creamos para el nivel 1.
         System.out.println("\n─── ⋆⋅☆⋅⋆ ─── CLONES ─── ⋆⋅☆⋅⋆ ──");
         CharacterPrototype clonPrototipo = new CharacterPrototype();
-        
-        // Creamos cada uno de los siguientes tipos de personajes:
+
+        // Creamos clones de los personajes que tenemos en la colección. 
         Personaje clon = (Personaje) clonPrototipo.prototipo("Lv1-Elfo");
         Personaje clon2 = (Personaje) clonPrototipo.prototipo("Lv1-Elfo");
 
