@@ -1,4 +1,4 @@
-//Crea la clase elfo
+// Crea la clase elfo
 
 public class Elfo extends Personaje {
 

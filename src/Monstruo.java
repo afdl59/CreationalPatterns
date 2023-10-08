@@ -1,4 +1,4 @@
-//crea la clase monstruo
+// Crea la clase monstruo
 
 public class Monstruo extends Personaje {
 

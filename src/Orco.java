@@ -1,4 +1,4 @@
-//Crea la clase orco
+// Crea la clase orco
 
 public class Orco extends Personaje {
 
